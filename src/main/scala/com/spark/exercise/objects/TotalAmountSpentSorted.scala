@@ -1,4 +1,4 @@
-package com.spark.objects
+package com.spark.exercise.objects
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.SparkContext
